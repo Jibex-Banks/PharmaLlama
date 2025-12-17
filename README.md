@@ -375,12 +375,6 @@ Low Stock Items: 2
 
 ---
 
-## 📄 License
-
-MIT License - Free to use and modify
-
----
-
 ## 🙏 Acknowledgments
 
 - **Meta** for Llama 3 AI model and WhatsApp platform
